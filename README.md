@@ -1,2 +1,11 @@
-# meetapp
-Meetapp - APP BOOTCAMP 8.0 NODE.JS (BACKEND)
+# BOOTCAMP  8 -- ROCKETSEAT -- 
+
+Meetapp - API with nodeJS
+
+Needs to use this API:
+
+
+
+Docker containers with: POSTGRES DATABASE/ REDIS ALPINE
+
+
