@@ -2,9 +2,7 @@
 
 Meetapp - API with nodeJS
 
-Needs to use this API:
-
-
+Using ->
 
 Docker containers with: POSTGRES DATABASE/ REDIS ALPINE
 
