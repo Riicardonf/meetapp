@@ -1,5 +1,7 @@
 # BOOTCAMP  8 -- ROCKETSEAT -- 
 
+# README IN CONSTRUCTION
+
 Meetapp - API with nodeJS
 
 Using ->
